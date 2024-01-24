@@ -1,0 +1,12 @@
+.dude {
+    max-height: 45vh;
+}
+
+.photo {
+    transition: 0.3s ease-in-out;
+}
+
+.photo:hover {
+    opacity: 0.5;
+    color: green;
+}
